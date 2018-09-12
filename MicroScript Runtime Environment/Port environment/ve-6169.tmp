@@ -1,0 +1,23 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.IO;
+
+namespace Port_environment
+{
+    class Reader
+    {
+        string fstring = "";
+        public Reader(string path)
+        {
+            FileStream fs = new FileStream(path, FileMode.Open);
+            byte[] file = new byte[fs.Length - 1];
+            fs.Read(file, 0, 0);
+            fstring = Encoding.ASCII.GetString(file);
+            fs.Close();
+            file.
+        }
+
+    }
+}

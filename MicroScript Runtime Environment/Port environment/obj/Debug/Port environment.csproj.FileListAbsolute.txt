@@ -1,0 +1,31 @@
+F:\PROG Project\Port environment\Port environment\bin\Debug\Port environment.exe
+F:\PROG Project\Port environment\Port environment\bin\Debug\Port environment.pdb
+F:\PROG Project\Port environment\Port environment\obj\Debug\ResolveAssemblyReference.cache
+F:\PROG Project\Port environment\Port environment\obj\Debug\Window1.baml
+F:\PROG Project\Port environment\Port environment\obj\Debug\Window1.g.cs
+F:\PROG Project\Port environment\Port environment\obj\Debug\App.g.cs
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment_MarkupCompile.cache
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.g.resources
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port_environment.Properties.Resources.resources
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.csproj.GenerateResource.Cache
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.exe
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.pdb
+F:\PROG Project\Port environment\Port environment\bin\Debug\Port environment.exe.manifest
+F:\PROG Project\Port environment\Port environment\bin\Debug\Port environment.application
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.TrustInfo.xml
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.exe.manifest
+F:\PROG Project\Port environment\Port environment\obj\Debug\Port environment.application
+G:\project\Port environment\Port environment\obj\Debug\Port environment.exe
+G:\project\Port environment\Port environment\obj\Debug\Port environment.pdb
+G:\project\Port environment\Port environment\bin\Debug\Port environment.exe
+G:\project\Port environment\Port environment\bin\Debug\Port environment.pdb
+G:\project\Port environment\Port environment\obj\Debug\ResolveAssemblyReference.cache
+G:\project\Port environment\Port environment\obj\Debug\Window1.baml
+G:\project\Port environment\Port environment\obj\Debug\Window1.g.cs
+G:\project\Port environment\Port environment\obj\Debug\App.g.cs
+G:\project\Port environment\Port environment\obj\Debug\Port environment_MarkupCompile.cache
+G:\project\Port environment\Port environment\obj\Debug\Port environment.g.resources
+G:\project\Port environment\Port environment\obj\Debug\Port_environment.Properties.Resources.resources
+G:\project\Port environment\Port environment\obj\Debug\Port environment.csproj.GenerateResource.Cache
+G:\project\Port environment\Port environment\obj\Debug\Error.baml
+G:\project\Port environment\Port environment\obj\Debug\Error.g.cs

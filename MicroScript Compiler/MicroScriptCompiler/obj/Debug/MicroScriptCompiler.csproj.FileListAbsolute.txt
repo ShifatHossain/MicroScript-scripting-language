@@ -1,0 +1,5 @@
+F:\PROG Project\MicroScriptCompiler\MicroScriptCompiler\bin\Debug\MicroScriptCompiler.exe
+F:\PROG Project\MicroScriptCompiler\MicroScriptCompiler\bin\Debug\MicroScriptCompiler.pdb
+F:\PROG Project\MicroScriptCompiler\MicroScriptCompiler\obj\Debug\ResolveAssemblyReference.cache
+F:\PROG Project\MicroScriptCompiler\MicroScriptCompiler\obj\Debug\MicroScriptCompiler.exe
+F:\PROG Project\MicroScriptCompiler\MicroScriptCompiler\obj\Debug\MicroScriptCompiler.pdb
